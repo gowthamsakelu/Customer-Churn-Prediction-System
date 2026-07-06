@@ -6,7 +6,7 @@ This project predicts whether a telecom customer is likely to leave (churn) usin
 
 The system performs complete data preprocessing, model training, evaluation, and provides predictions through a FastAPI REST API.
 
----
+---`
 
 ## Features
 
