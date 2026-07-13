@@ -14,7 +14,7 @@ The system performs complete data preprocessing, model training, evaluation, and
 - Missing Value Handling
 - Feature Encoding
 - Logistic Regression Model
-- Model Evaluation
+- Model Evaluation/
 - FastAPI Prediction API
 
 ---
